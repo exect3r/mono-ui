@@ -17,7 +17,7 @@ P.S: Check the included _Game.cs_ for a detailed example.
 ___
 
 ## Todo list:
-* Handle _Keybaord_ events.
+* Handle _Keyboard_ events.
 * Add _Label_ element: a simple drawable text.
 * Add _Button_ element: a child of _Pressable_ with a preset look and behaviour.
 * Add _TextBox_ element: a text input field.
