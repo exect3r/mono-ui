@@ -25,5 +25,5 @@ ___
 ___
 
 ## Final words:
-I am a self-taught amateur coder and wish to put my knowledge to the test. I will publish my work here in Github to be critisized and corrected by the experts in hopes of expanding my programming capabilities while also providing service to the community.
+I am a self-taught amateur coder and wish to put my knowledge to the test. I will publish my work here in Github to be criticized and corrected by the experts in hopes of expanding my programming capabilities while also providing service to the community.
 If you wish to financially support me, I can only accept donations as Bitcoins. You can find me on Discord: `exect3r#8676` for more details.
